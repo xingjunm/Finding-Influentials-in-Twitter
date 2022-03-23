@@ -153,6 +153,6 @@ int main(void)
 	getFreWords.DelLessFreWords("./processing-texts", "./processed-texts", 3);
 	finish=clock();
 	totaltime=(double)(finish-start)/CLOCKS_PER_SEC; //得到结果单位秒，如果时间太短太短的话可能是0
-	cout<<"程序运行时间为："<<totaltime<<" 秒"<<endl;
+	cout<<"running time: "<<totaltime<<" 秒"<<endl;
 	return 0;
 }
