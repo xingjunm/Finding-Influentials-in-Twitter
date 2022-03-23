@@ -30,25 +30,19 @@ delete from twitter_retweets where user_id not in (select distinct(id) as id fro
 ##### check the remaining users and tweets
 ***********************************
 mysql> select count(*) from twitter_user;
-
 7247
 
 mysql> select count(*) from twitter_tweets;
-
 3541214
 
 mysql> select count(*) from twitter_tweets where retweeted_status != 'null';
-
 600943
 
 mysql> select count(*) from twitter_retweets;
-
 569863
 
 mysql> select sum(retweet_count) from tweet_count;
-
 600943
 
 mysql> select sum(reply_count) from tweet_count;
-
 787688
