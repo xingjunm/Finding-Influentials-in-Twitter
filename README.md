@@ -2,15 +2,15 @@
 
 Code for AusDM 2016 Paper ["Finding Influentials in Twitter: A Temporal Influence Ranking Model"](https://arxiv.org/abs/1703.01468) by Xingjun Ma, Chunping Li, James Bailey, Sudanthi Wijewickrema.
 
--- The Twitter Datasets used in the paper can be downloaded at: [Baidu Drive](https://pan.baidu.com/s/4eX2zrrk)
+#### Datasets
+The Twitter Datasets used in the paper can be downloaded at: [Baidu Drive](https://pan.baidu.com/s/4eX2zrrk)
 
 The statistics were calculated after import the datasets into mysql database.
 
-### Code
+#### Code
 The code can be found in this repo.
 
-
-### Running Environment:
+#### Running Environment:
 
 Operating system: Ubuntu 12.04 32bit
 
