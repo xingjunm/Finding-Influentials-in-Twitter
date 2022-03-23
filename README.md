@@ -18,7 +18,7 @@ Programming language：Python 2.7.6
 
 
 ---
-## Cite Our Work
+## Cite our work:
 ```
 @article{ma2017finding,
   title={Finding influentials in Twitter: a temporal influence ranking model},
