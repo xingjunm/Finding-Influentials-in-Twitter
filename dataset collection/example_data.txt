@@ -1,0 +1,155 @@
+status:
+{
+	"favorited": false, 
+	"contributors": null, 
+	"truncated": false, 
+	"text": "The #mobiledsgn meetup @Facebook HQ in NYC is going to be good! http://t.co/8jgBFlFasP", 
+	"source_url": "http://tapbots.com/tweetbot", 
+	"possibly_sensitive": false, 
+	"in_reply_to_status_id": null, 
+	"geo": {
+			"type": "Point", 
+			"coordinates": [40.75463053, -73.97661292]
+			}, 
+	"id": 423240234470354944, 
+	"favorite_count": 2, 
+	"source": "Tweetbot for iOS", 
+	"lang": "en", 
+	"user_id": 7525062, 
+	"created_at": "2014-01-14 23:48:29", 
+	"retweeted": false, 
+	"coordinates": {"type": "Point", "coordinates": [-73.97661292, 40.75463053]}, 
+	"in_reply_to_user_id_str": null,
+	"entities": {
+		"symbols": [], 
+		"user_mentions": [{"id": 2425151, "indices": [23, 32], "id_str": "2425151", "screen_name": "facebook", "name": "Facebook"}], 
+		"hashtags": [{"indices": [4, 15], "text": "mobiledsgn"}], 
+	"urls": [], 
+	"media": [{"expanded_url": "http://twitter.com/ovonhauske/status/423240234470354944/photo/1", "display_url": "pic.twitter.com/8jgBFlFasP", "url": "http://t.co/8jgBFlFasP", "media_url_https": "https://pbs.twimg.com/media/Bd-mwCxCQAAL-ee.jpg", "id_str": "423240234302586880", "sizes": {"large": {"h": 1024, "resize": "fit", "w": 1024}, "small": {"h": 340, "resize": "fit", "w": 340}, "medium": {"h": 600, "resize": "fit", "w": 600}, "thumb": {"h": 150, "resize": "crop", "w": 150}}, "indices": [64, 86], "type": "photo", "id": 423240234302586880, "media_url": "http://pbs.twimg.com/media/Bd-mwCxCQAAL-ee.jpg"}]
+	}, 
+	"in_reply_to_status_id_str": null, 
+	"in_reply_to_screen_name": null, 
+	"id_str": "423240234470354944", 
+	"retweet_count": 0, 
+	"in_reply_to_user_id": null}
+retweet:
+{
+	"favorited": false, 
+	"contributors": null, 
+	"truncated": false, 
+	"text": "RT @allysalib: @megancaragher sings paparazzi and all of a sudden I am in a pool again", 
+	"source_url": null, 
+	"in_reply_to_status_id": null, 
+	"geo": null, 
+	"id": 422579425054826496, 
+	"favorite_count": 0, 
+	"source": "web", 
+	"lang": "en", 
+	"user_id": 62060327, 
+	"retweeted_status": {
+		"favorited": false, 
+		"contributors": null, 
+		"truncated": false, 
+		"text": "@megancaragher sings paparazzi and all of a sudden I am in a pool again", 
+		"source_url": "http://twitter.com/download/iphone", 
+		"in_reply_to_status_id": null, 
+		"geo": null, 
+		"id": 422576013462499328, 
+		"favorite_count": 1, 
+		"source": "Twitter for iPhone", 
+		"lang": "en", 
+		"user_id": 50435783, 
+		"created_at": "2014-01-13 03:49:07", 
+		"retweeted": false, 
+		"coordinates": null, 
+		"in_reply_to_user_id_str": "62060327", 
+		"entities": {
+			"symbols": [], 
+			"user_mentions": [{
+				"id": 62060327, 
+				"indices": [0, 14], 
+				"id_str": "62060327", 
+				"screen_name": "megancaragher", 
+				"name": "Meg Caragher"}], 
+			"hashtags": [], 
+			"urls": []}, 
+		"in_reply_to_status_id_str": null, 
+		"in_reply_to_screen_name": "megancaragher", 
+		"id_str": "422576013462499328", 
+		"retweet_count": 1,
+		"in_reply_to_user_id": 62060327
+		}, 
+	"created_at": "2014-01-13 04:02:40", 
+	"retweeted": false, 
+	"coordinates": null, 
+	"in_reply_to_user_id_str": null, 
+	"entities": {
+		"symbols": [], 
+		"user_mentions": [{
+			"id": 50435783, 
+			"indices": [3, 13], 
+			"id_str": "50435783", 
+			"screen_name": "allysalib", 
+			"name": "Ally Salib"}, {
+			"id": 62060327, 
+			"indices": [15, 29], 
+			"id_str": "62060327", 
+			"screen_name": "megancaragher", 
+			"name": "Meg Caragher"}], 
+		"hashtags": [], 
+		"urls": []}, 
+		"in_reply_to_status_id_str": null, 
+		"in_reply_to_screen_name": null, 
+		"id_str": "422579425054826496", 
+		"retweet_count": 1, 
+		"in_reply_to_user_id": null
+}
+reply:
+{"favorited": false, "contributors": null, "truncated": false, "text": "@SubtweetCat OK FINE... I'll do it...", "source_url": "http://tapbots.com/tweetbot", "in_reply_to_status_id": 414571090565148672, "geo": null, "id": 414573852757610496, "favorite_count": 0, "source": "Tweetbot for iOS", "lang": "en", "user_id": 7525062, "created_at": "2013-12-22 01:51:23", "retweeted": false, "coordinates": null, "in_reply_to_user_id_str": "1001060760", "entities": {"symbols": [], "user_mentions": [{"id": 1001060760, "indices": [0, 12], "id_str": "1001060760", "screen_name": "SubtweetCat", "name": "meow meow meow"}], "hashtags": [], "urls": []}, "in_reply_to_status_id_str": "414571090565148672", "in_reply_to_screen_name": "SubtweetCat", "id_str": "414573852757610496", "retweet_count": 0, "in_reply_to_user_id": 1001060760}
+
+reretweet:
+{"favorited": false, "contributors": null, "truncated": false, "text": "RT @NYTM: .@GetMakeSpace :) RT @AdrianaVecc: MakeSpace: like a Dropbox for physical stuff. #nytm", "source_url": "http://tapbots.com/tweetbot", "in_reply_to_status_id": null, "geo": null, "id": 420716893889392640, "favorite_count": 0, "source": "Tweetbot for iOS", "lang": "en", "user_id": 7525062, "retweeted_status": {"favorited": false, "contributors": null, "truncated": false, "text": ".@GetMakeSpace :) RT @AdrianaVecc: MakeSpace: like a Dropbox for physical stuff. #nytm", "source_url": "https://about.twitter.com/products/tweetdeck", "in_reply_to_status_id": null, "geo": null, "id": 420716597188104193, "favorite_count": 3, "source": "TweetDeck", "lang": "en", "user_id": 18560574, "created_at": "2014-01-08 00:40:27", "retweeted": false, "coordinates": null, "in_reply_to_user_id_str": null, "entities": {"symbols": [], "user_mentions": [{"id": 1398316657, "indices": [1, 14], "id_str": "1398316657", "screen_name": "GetMakeSpace", "name": "MakeSpace"}, {"id": 30705660, "indices": [21, 33], "id_str": "30705660", "screen_name": "AdrianaVecc", "name": "Adriana Vecc"}], "hashtags": [{"indices": [81, 86], "text": "nytm"}], "urls": []}, "in_reply_to_status_id_str": null, "in_reply_to_screen_name": null, "id_str": "420716597188104193", "retweet_count": 1, "in_reply_to_user_id": null}, "created_at": "2014-01-08 00:41:38", "retweeted": false, "coordinates": null, "in_reply_to_user_id_str": null, "entities": {"symbols": [], "user_mentions": [{"id": 18560574, "indices": [3, 8], "id_str": "18560574", "screen_name": "NYTM", "name": "NY Tech Meetup"}, {"id": 1398316657, "indices": [11, 24], "id_str": "1398316657", "screen_name": "GetMakeSpace", "name": "MakeSpace"}, {"id": 30705660, "indices": [31, 43], "id_str": "30705660", "screen_name": "AdrianaVecc", "name": "Adriana Vecc"}], "hashtags": [{"indices": [91, 96], "text": "nytm"}], "urls": []}, "in_reply_to_status_id_str": null, "in_reply_to_screen_name": null, "id_str": "420716893889392640", "retweet_count": 1, "in_reply_to_user_id": null}
+
+user:
+{
+	"follow_request_sent": null, 
+	"profile_use_background_image": true, 
+	"default_profile_image": false, 
+	"id": 17748532, 
+	"verified": false, 
+	"profile_image_url_https": "https://pbs.twimg.com/profile_images/183213046/collos_normal.jpg", 
+	"profile_sidebar_fill_color": "DDFFCC", 
+	"profile_text_color": "333333", 
+	"followers_count": 1188, 
+	"profile_sidebar_border_color": "BDDCAD", 
+	"id_str": "17748532", 
+	"profile_background_color": "9AE4E8", 
+	"listed_count": 60, 
+	"profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/3754301/giant.jpg", 
+	"utc_offset": -18000, 
+	"statuses_count": 44687, 
+	"description": "Wall St", 
+	"friends_count": 1481, 
+	"location": "New York", 
+	"profile_link_color": "0084B4", 
+	"profile_image_url": "http://pbs.twimg.com/profile_images/183213046/collos_normal.jpg", 
+	"following": null, 
+	"geo_enabled": true, 
+	"profile_background_image_url": "http://a0.twimg.com/profile_background_images/3754301/giant.jpg", 
+	"name": "GMRobertson", 
+	"lang": "en", 
+	"profile_background_tile": true, 
+	"favourites_count": 50, 
+	"screen_name": "GMRobertson", 
+	"notifications": null, 
+	"url": "http://www.bathosontrading.blogspot.com", 
+	"created_at": "Sun Nov 30 04:15:43 +0000 2008", 
+	"contributors_enabled": false, 
+	"time_zone": "Eastern Time (US & Canada)", 
+	"protected": false, 
+	"default_profile": false, 
+	"is_translator": false
+}
+
+
+.206870825.swp
